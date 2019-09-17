@@ -240,38 +240,38 @@ html {
 .part-1 {
   background-color: greenyellow;
   transition: all 1s ease;
-  opacity: 1;
+  opacity: 0;
   z-index: 6;
 }
 .part-2 {
   background-color: crimson;
   transition: all 1s ease;
-  opacity: 1;
+  opacity: 0;
   z-index: 5;
 }
 .part-3 {
   background-color: royalblue;
   transition: all 1s ease;
   z-index: 4;
-  opacity: 1;
+  opacity: 0;
 }
 .part-4 {
   background-color: salmon;
   transition: all 1s ease;
   z-index: 3;
-  opacity: 1;
+  opacity: 0;
 }
 .part-5 {
   background-color: hotpink;
   transition: all 1s ease;
   z-index: 2;
-  opacity: 1;
+  opacity: 0;
 }
 .part-6 {
   background-color: darkgoldenrod;
   transition: all 1s ease;
   z-index: 1;
-  opacity: 1;
+  opacity: 0;
 }
 
 .section-3 {
