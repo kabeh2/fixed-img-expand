@@ -4,11 +4,11 @@
 
 This is a demo to show a sticky section of a page.
 
-[X] While scrolling in view of 2nd section, it becomes fixed, user sees background change, and image scales up in size.
+- [x] While scrolling in view of 2nd section, it becomes fixed, user sees background change, and image scales up in size.
 
-[X] When section is done scrolling, page will continue to scroll to next relative section.
+- [x] When section is done scrolling, page will continue to scroll to next relative section.
 
-[X] When scrolling back up, animation will reverse to initial settings.
+- [x] When scrolling back up, animation will reverse to initial settings.
 
 Feel free to use this code for your own projects.
 
