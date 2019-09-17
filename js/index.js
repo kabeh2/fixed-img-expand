@@ -24,6 +24,11 @@ if (width >= 480) {
       $(".test-img").css("height", "auto");
       $(".test-img").css("width", "30%");
     } else if (y_scroll_pos > 470 && y_scroll_pos < 888) {
+      $(".part-2").css("opacity", "0");
+      $(".part-3").css("opacity", "0");
+      $(".part-4").css("opacity", "0");
+      $(".part-5").css("opacity", "0");
+      $(".part-6").css("opacity", "0");
       $(".part-1").css("opacity", "1");
       $(".test-img").css("height", "auto");
       $(".test-img").css("width", "30%");
